@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kruno</string>
+    <string name="akademska_godina">Tanév</string>
+    <string name="broj_sati_predavanja">Az előadások óráinak száma</string>
+    <string name="broj_sati_vjezbe">Gyakorlási órák száma</string>
+    <string name="dalje">További</string>
+    <string name="datum_rodenja">Születési idő</string>
+    <string name="dodaj_studenta">Add hozzá a hallgatót</string>
+    <string name="ime">Név</string>
+    <string name="povratak">Visszatérés</string>
+    <string name="predmet">Téma</string>
+    <string name="prezime">Vezetéknév</string>
+    <string name="profesor">Egyetemi tanár</string>
+    <string name="studenti">Diákok</string>
+    <string name="unesi_ak_godinu">Kérjük írja be a tanévet</string>
+    <string name="unesi_broj_sati_predavanja">Írja be az előadások óráinak számát</string>
+    <string name="unesi_broj_sati_vjezbe">Írja be az edzésórák számát</string>
+    <string name="unesi_datum">Kérjük írja be születési idejét</string>
+    <string name="unesi_profesora">Írja be a professzor vezetéknevét és vezetéknevét</string>
+    <string name="unesi_predmet">Kérjük írjon be egy tárgyat</string>
+
+    <string-array name="languages">
+        <item>Válassza ki a nyelvet</item>
+        <item>Horvát</item>
+        <item>Angol</item>
+        <item>Magyar</item>
+    </string-array>
+
+</resources>
