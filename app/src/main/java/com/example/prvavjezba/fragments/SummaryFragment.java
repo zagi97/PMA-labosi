@@ -39,7 +39,7 @@ public class SummaryFragment extends Fragment {
         sSatiPredavanja = view.findViewById(R.id.tvPredavanja);
         sSatiLV = view.findViewById(R.id.tvVjezbe);
         vrati_se = view.findViewById(R.id.btnPovratak);
-
+///dsadsadsa
         vrati_se.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
